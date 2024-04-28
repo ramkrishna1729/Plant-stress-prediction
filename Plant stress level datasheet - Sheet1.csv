@@ -1,0 +1,314 @@
+CropType,Temperature,Humidity,Light intensity,Soil moisture ( in %),Plant Stress Level
+Garden Flower,15,40,3000,50,Ideal
+Garden Flower,25,60,10000,70,Ideal
+Garden Flower,20,55,3000,51,Low
+Garden Flower,22,50,2500,53,Low
+Garden Flower,24,58,4000,51,Low
+Garden Flower,25,45,2800,56,Low
+Garden Flower,27,60,3200,57,Low
+Garden Flower,19,52,3100,58,Low
+Garden Flower,18,56,3500,61,Low
+Garden Flower,23,49,3600,62,Low
+Garden Flower,26,59,4000,64,Low
+Garden Flower,25,47,5000,67,Low
+Garden Flower,23,61,4300,54,Low
+Garden Flower,19,53,2900,48,Low
+Garden Flower,20,57,3700,49,Low
+Garden Flower,22,48,3300,64,Low
+Garden Flower,24,60,4600,67,Low
+Garden Flower,21,46,3000,26,Low
+Garden Flower,23,62,3100,50,Low
+Garden Flower,19,54,2950,63,Low
+Garden Flower,20,58,3400,38,Low
+Garden Flower,22,50,6000,68,Low
+Garden Flower,30,45,700,74,Moderate
+Garden Flower,31,38,650,83,Moderate
+Garden Flower,30,32,750,16,Moderate
+Garden Flower,29,40,2000,19,Moderate
+Garden Flower,33,37,800,14,Moderate
+Garden Flower,34,33,700,20,Moderate
+Garden Flower,29,36,650,18,Moderate
+Garden Flower,28,31,2500,89,Moderate
+Garden Flower,36,39,600,17,Moderate
+Garden Flower,38,75,2600,45,Moderate
+Garden Flower,28,78,700,90,Moderate
+Garden Flower,28,71,650,16,Moderate
+Garden Flower,26,65,2300,94,Moderate
+Garden Flower,27,38,600,85,Moderate
+Garden Flower,29,33,1500,34,Moderate
+Garden Flower,30.5,34,700,20,Moderate
+Garden Flower,28,37,650,82,Moderate
+Garden Flower,26,29,2600,90,Moderate
+Garden Flower,27,39,1200,95,Moderate
+Garden Flower,29,32,1800,91,Moderate
+Garden Flower,31,28,450,75,High
+Garden Flower,32,25,600,81,High
+Garden Flower,33,22,800,25,High
+Garden Flower,31,30,1200,11,High
+Garden Flower,32,27,1500,75,High
+Garden Flower,33,76,1600,79,High
+Garden Flower,31,80,1800,80,High
+Garden Flower,32,90,1500,34,High
+Garden Flower,33,65,1800,15,High
+Garden Flower,31,62,2100,9,High
+Garden Flower,32,85,2500,80,High
+Garden Flower,33,95,2600,90,High
+Rice,20,70,3000,80,Ideal
+Rice,29,80,6000,100,Ideal
+Rice,28,75,5000,90,Low
+Rice,29,74,4500,85,Low
+Rice,27,76,5500,95,Low
+Rice,28,78,5200,92,Low
+Rice,26,77,4800,88,Low
+Rice,30,72,5300,87,Low
+Rice,27,73,3200,80,Low
+Rice,32.6,59,3317,61.67,Moderate
+Rice,35,60,3000,55,Moderate
+Rice,37,60,2500,70,Moderate
+Rice,39,60,1500,59,Moderate
+Rice,32,65,1000,50,Moderate
+Rice,31,68,1050,45,Moderate
+Rice,34,62,950,73,Moderate
+Rice,38,70,2000,66,Moderate
+Rice,33,64,980,90,Moderate
+Rice,36,58,850,67,Moderate
+Rice,30,79,7000,81,Moderate
+Rice,37,55,700,62,Moderate
+Rice,23,82,3800,86,Moderate
+Rice,38,52,650,30,High
+Rice,35,85,900,35,High
+Rice,32,55,800,40,High
+Rice,31,50,1400,45,High
+Rice,38,65,650,50,High
+Rice,35,35,1600,55,High
+Rice,32,90,600,60,High
+Rice,31,89,7100,65,High
+Tomato,20,60,5000,70,Ideal
+Tomato,27,70,10000,80,Ideal
+Tomato,25,70,4500,65,Low
+Tomato,27,72,5000,67,Low
+Tomato,20,61,5600,70,Low
+Tomato,26,69,6000,66,Low
+Tomato,25,63,6500,68,Low
+Tomato,24,61,6700,64,Low
+Tomato,28,65,6200,64,Low
+Tomato,23,67,7100,64,Low
+Tomato,22,69,8000,64,Low
+Tomato,29,71,8500,64,Low
+Tomato,28,72,3000,64,Low
+Tomato,23,74,3200,64,Low
+Tomato,32,55,600,55,Moderate
+Tomato,30,65,1000,60,Moderate
+Tomato,28,58,700,58,Moderate
+Tomato,31,66,975,59,Moderate
+Tomato,29,67,1050,62,Moderate
+Tomato,27,68,1100,61,Moderate
+Tomato,28,65,1000,58,Moderate
+Tomato,26,69,1025,60,Moderate
+Tomato,29,58,725,57,Moderate
+Tomato,29,58,925,30,Moderate
+Tomato,30,80,700,35,Moderate
+Tomato,31,58,600,40,Moderate
+Tomato,32,40,725,45,Moderate
+Tomato,33,57,750,56,Moderate
+Tomato,30,56,775,55,Moderate
+Tomato,28,55,800,54,Moderate
+Tomato,38,54,825,53,Moderate
+Tomato,36,80,700,55,Moderate
+Tomato,35,90,920,54,Moderate
+Tomato,40,91,1100,53,Moderate
+Tomato,37,30,1000,52,Moderate
+Tomato,31,51,800,51,Moderate
+Tomato,32,50,800,50,Moderate
+Tomato,38,49,800,49,Moderate
+Tomato,39,48,800,48,Moderate
+Tomato,35,40,3000,46,High
+Tomato,38,39,275,45,High
+Tomato,37,38,2500,44,High
+Tomato,38,37,900,43,High
+Tomato,37,36,1700,42,High
+Tomato,38,35,1175,80,High
+Tomato,39,34,1450,90,High
+Tomato,40,33,1800,60,High
+Tomato,33,45,1500,55,High
+Tomato,34,42,2500,85,High
+Sugarcane,20,75,6000,80,Ideal
+Sugarcane,30,85,8000,90,Ideal
+Sugarcane,30,70,3000,75,Low
+Sugarcane,32,68,3500,78,Low
+Sugarcane,28,72,4000,76,Low
+Sugarcane,34,66,5000,72,Low
+Sugarcane,29,74,3200,77,Low
+Sugarcane,33,65,3350,73,Low
+Sugarcane,31,69,4200,74,Low
+Sugarcane,35,62,2900,70,Low
+Sugarcane,36,60,5200,68,Low
+Sugarcane,27,76,6000,79,Low
+Sugarcane,37,58,5600,66,Low
+Sugarcane,38,56,4100,64,Low
+Sugarcane,39,54,3200,62,Low
+Sugarcane,40,52,6500,60,Low
+Sugarcane,41,50,3300,58,Low
+Sugarcane,42,48,3900,56,Low
+Sugarcane,43,46,4200,54,Low
+Sugarcane,44,44,600,72,Low
+Sugarcane,45,42,3400,77,Low
+Sugarcane,46,40,5000,73,Low
+Sugarcane,47,38,3200,74,Low
+Sugarcane,48,36,3350,70,Low
+Sugarcane,49,34,4200,68,Low
+Sugarcane,50,32,2900,79,Low
+Sugarcane,51,30,5200,66,Low
+Sugarcane,52,28,6000,64,Low
+Sugarcane,53,26,4010,62,Low
+Sugarcane,54,24,3030,60,Low
+Sugarcane,55,22,3700,58,Low
+Sugarcane,56,20,4500,78,Low
+Sugarcane,36,55,3000,42,Moderate
+Sugarcane,38,53,3500,40,Moderate
+Sugarcane,35,58,4000,38,Moderate
+Sugarcane,39,51,5000,36,Moderate
+Sugarcane,37,56,3200,34,Moderate
+Sugarcane,40,49,3350,32,Moderate
+Sugarcane,36,57,4200,30,Moderate
+Sugarcane,39,50,2900,28,Moderate
+Sugarcane,38,52,5200,65,Moderate
+Sugarcane,35,59,6000,72,Moderate
+Sugarcane,37,54,5600,67,Moderate
+Sugarcane,40,48,4100,61,Moderate
+Sugarcane,36,56,3200,70,Moderate
+Sugarcane,42,45,6500,58,High
+Sugarcane,44,82,3300,20,High
+Sugarcane,46,79,3900,54,High
+Sugarcane,43,44,4200,57,High
+Sugarcane,45,41,600,55,High
+Sugarcane,47,38,3400,47,High
+Sugarcane,48,36,5000,51,High
+Sugarcane,49,65,3200,49,High
+Sugarcane,50,32,3350,69,High
+Sugarcane,51,89,4200,87,High
+Sugarcane,52,28,2900,88,High
+Sugarcane,53,26,5200,41,High
+Sugarcane,54,90,6000,85,High
+Sugarcane,55,22,4010,78,High
+Sugarcane,56,91,3030,81,High
+Maize,21,60,800,60,Ideal
+Maize,29,70,2500,70,Ideal
+Maize,28,65,2100,68,Low
+Maize,29,66,1200,69,Low
+Maize,27,64,1500,67,Low
+Maize,22,67,1800,70,Low
+Maize,26,63,1360,66,Low
+Maize,23,65,2500,70,Low
+Maize,24,67,1000,70,Low
+Maize,30,63,1360,66,Low
+Maize,29,65,1400,70,Low
+Maize,24,67,2000,70,Low
+Maize,26,63,1700,66,Low
+Maize,23,65,1900,70,Low
+Maize,35,49,1200,63,Moderate
+Maize,37,45,1500,72,Moderate
+Maize,31,40,1100,65,Moderate
+Maize,30,62,1350,67,Moderate
+Maize,34,55,1050,60,Moderate
+Maize,26,70,1600,75,Moderate
+Maize,35,50,1000,55,Moderate
+Maize,25,75,1800,78,Moderate
+Maize,25,75,1800,78,Moderate
+Maize,24,78,1900,80,Moderate
+Maize,37,45,900,50,Moderate
+Maize,23,80,2000,82,Moderate
+Maize,38,42,850,48,Moderate
+Maize,22,82,2100,85,Moderate
+Maize,39,40,800,45,Moderate
+Maize,25,75,1800,78,Moderate
+Maize,25,75,1800,78,Moderate
+Maize,29,47,800,42,Moderate
+Maize,31,48,900,43,Moderate
+Maize,30,49,700,44,Moderate
+Maize,33,40,550,95,High
+Maize,33,46,500,70,High
+Maize,36,30,300,90,High
+Maize,37,80,200,80,High
+Maize,38,30,600,41,High
+Maize,39,46,650,41,High
+Maize,40,45,400,40,High
+Maize,33,38,750,42,High
+Maize,36,85,3000,88,High
+Maize,36,48,3200,52,High
+Potato,18,80,5000,70,Ideal
+Potato,24,90,8000,80,Ideal
+Potato,18,81,3500,75,Low
+Potato,20,83,3700,77,Low
+Potato,22,84,2900,78,Low
+Potato,24,78,4700,80,Low
+Potato,26,79,4500,82,Low
+Potato,28,75,3300,74,Low
+Potato,24,79,3100,76,Low
+Potato,27,88,4900,79,Low
+Potato,28,89,4700,71,Low
+Potato,23,91,4500,73,Low
+Potato,25,58,1600,65,Moderate
+Potato,27,56,1800,67,Moderate
+Potato,29,54,2000,69,Moderate
+Potato,31,52,1800,71,Moderate
+Potato,33,50,1600,73,Moderate
+Potato,28,48,1400,75,Moderate
+Potato,30,46,1200,77,Moderate
+Potato,32,44,1000,79,Moderate
+Potato,34,42,800,81,Moderate
+Potato,36,40,600,83,Moderate
+Potato,35,48,1100,60,High
+Potato,37,46,1000,58,High
+Potato,39,44,900,56,High
+Potato,38,42,800,54,High
+Potato,40,40,700,52,High
+Potato,37,38,600,50,High
+Potato,35,36,500,48,High
+Potato,33,34,400,46,High
+Potato,31,32,300,44,High
+Potato,29,30,200,42,High
+Cotton,18,80,5000,70,Ideal
+Cotton,24,90,8000,80,Ideal
+Cotton,28,80,4500,75,Low
+Cotton,27,82,4800,68,Low
+Cotton,26,75,3600,72,Low
+Cotton,29,68,5900,73,Low
+Cotton,28,88,6700,70,Low
+Cotton,25,81,8000,76,Low
+Cotton,28,86,3800,74,Low
+Cotton,27,89,3900,77,Low
+Cotton,29,84,5600,75,Low
+Cotton,23,92,4700,69,Low
+Cotton,28,78,4800,78,Low
+Cotton,27,72,6500,73,Low
+Cotton,26,79,5100,75,Low
+Cotton,29,87,5700,77,Low
+Cotton,21,90,6800,76,Low
+Cotton,32,55,900,58,Moderate
+Cotton,33,58,950,55,Moderate
+Cotton,31,56,850,59,Moderate
+Cotton,34,53,800,57,Moderate
+Cotton,32,57,950,56,Moderate
+Cotton,33,54,850,60,Moderate
+Cotton,31,55,900,58,Moderate
+Cotton,34,52,800,57,Moderate
+Cotton,32,58,950,55,Moderate
+Cotton,33,55,850,59,Moderate
+Cotton,31,57,900,56,Moderate
+Cotton,34,54,800,60,Moderate
+Cotton,32,56,950,58,Moderate
+Cotton,33,53,850,57,Moderate
+Cotton,31,55,900,59,Moderate
+Cotton,36,48,750,52,High
+Cotton,37,46,700,50,High
+Cotton,38,44,650,48,High
+Cotton,36,47,750,51,High
+Cotton,37,45,700,49,High
+Cotton,38,43,650,47,High
+Cotton,36,46,750,50,High
+Cotton,37,44,700,48,High
+Cotton,38,42,650,46,High
+Cotton,36,45,750,49,High
+Cotton,37,43,700,47,High
+Cotton,38,41,650,45,High
